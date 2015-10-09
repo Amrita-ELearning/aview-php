@@ -1,4 +1,4 @@
-# aview-php
+# aview-content
 
 This is a server side component of the aview software. It manages files storage necessary for an aview classroom. It currently supports only the whiteboard, document sharing, 3d, 2d, recording and playback and video sharing modules of the aview software.
 
