@@ -2,6 +2,16 @@
 
 This is a server side component of the aview software. It manages files storage necessary for an aview classroom. It currently supports only the whiteboard, document sharing, 3d, 2d, recording and playback and video sharing modules of the aview software.
 
+Functionality
+-------------
+* Creates files and folders for storing the content from modules.
+* Deletes files and folders.
+* Upload files - Files with different formats are uploaded from modules are stored in server.
+* Copy file - Files are being copied from one location to another based on the user interaction from client.
+* Check file existence
+* Convert files - Files are intitated for conversion using different mechanism for staging in AVIEW.
+* Uploads photo - Photos taken from aview nodes are uploaded from nodes and stored in server for data analysis.
+* Logging - Monitors the server activity and creates logs file based on that.
 
 Installation
 --------------
