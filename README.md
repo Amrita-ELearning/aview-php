@@ -2,6 +2,11 @@
 
 This is a server side component of the aview software. It manages files storage necessary for an aview classroom. It currently supports only the whiteboard, document sharing, 3d, 2d, recording and playback and video sharing modules of the aview software.
 
+# License
+----------------
+The code in this repository is licensed under CC-BY-SA unless otherwise noted. Please follow the link for more details.
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
 Functionality
 -------------
 * Creates files and folders for storing the content from modules.
